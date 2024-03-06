@@ -44,6 +44,6 @@
 6개의 대분류: 상의 / 하의 / 아우터 / 모자 / 신발 / 가방
 대분류별 소분류 Top 90개 상품의 대한 정보
 
-https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/4379decc-f104-4896-a19f-e61a7d43a2bc
+![Screenshot from 2024-01-23 09-37-22](https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/4379decc-f104-4896-a19f-e61a7d43a2bc)
 
 ### 2.2 데이터 수집 1차
