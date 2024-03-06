@@ -2,7 +2,8 @@
 
 ## Exploratory Data Analysis Project - (Fashion Trend Data Analysis)
 
-https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/b494c05a-6389-4144-b477-86bbd3bb214e
+
+![Screenshot from 2024-03-06 16-05-12](https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/b96088ff-ee1d-4819-be2b-bdf59cefb798)
 
 ---
 
@@ -31,7 +32,8 @@ https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/b494c05a-6389-41
 
 ### 1.3 프로젝트 기술
 
-https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/610ecdb7-0953-4051-864f-b3d54506afd6
+![Screenshot from 2024-03-06 16-24-03 (1)](https://github.com/addinedu-ros-4th/eda-repo-3/assets/155615876/2cac35c3-d4a6-43ef-9773-f928a6243d63)
+
 
 ---
 
