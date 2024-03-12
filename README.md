@@ -58,7 +58,7 @@
 
 이를 해결하고자 
 
-Inpect ➡ Network ➡️ Headers ➡️ Data
+Inspect ➡ Network ➡️ Headers ➡️ Data
 
 위와 같은 방법으로 접근하여 원하고자 하는 데이터를 수집할 수 있었다
 
